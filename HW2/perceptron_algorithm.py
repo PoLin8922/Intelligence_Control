@@ -13,7 +13,7 @@ dataset = np.array([
 ((0.8, 0.2), 1),
 ((0.4, -0.6), 1)])
 
-# haha it's fun
+# haha it's fun !!!
 def check_error(w, b, dataset):
     result = None
     global error
